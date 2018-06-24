@@ -1,7 +1,6 @@
 Naver Data Science Competition
 =============================
-Team Name : Big data mining of Geeks
-- - -
+## Team Name : Big data mining of Geeks
 
 
 ### Team Member
