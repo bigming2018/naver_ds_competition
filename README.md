@@ -10,4 +10,4 @@ Naver Data Science Competition
 - [김민수](https://github.com/alstn2468)
 
 ### Language
-<img src="images/Logo.png" width="500px" height="300px">
+<img src="images/Logo.png" height="300">
