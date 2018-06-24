@@ -11,8 +11,8 @@ Naver Data Science Competition
 
 ### ■ Language
 <img src="images/Logo.png" width="300" height="auto">
-Python
+- Python
 
 ### ■ Integrated Development Environment(IDE)
-<img src="images/IDE.jpeg">
-PyCharm
+<img src="images/IDE.jpeg" width="200" height="200">
+- PyCharm
