@@ -11,6 +11,10 @@ Naver Data Science Competition 2018
 - [김민수 Kim min su](https://github.com/alstn2468)
 
 
+### ■ Team Slogan
+ - for Better Code than yesterday!
+
+
 ### ■ Language
 <img src="images/python.png" width="300" height="auto">
 
@@ -30,8 +34,7 @@ Naver Data Science Competition 2018
 
 - PyCharm
 
-### ■ IDE
-<img src="images/intellij.jpeg" width="200" height="200">
+<img src="images/intellij.jpg" width="200" height="200">
 
 - IntelliJ
 
