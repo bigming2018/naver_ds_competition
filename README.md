@@ -34,25 +34,12 @@
 - Go
 
 
-
 ### ■ IDE
 <img src="images/pycharm.jpeg" width="200" height="200">
 
 - PyCharm
 
-<<<<<<< HEAD
 ### ■ IDE
-=======
-
->>>>>>> 345565be66b36d213a417ca95163d5ef6aa97bea
-<img src="images/intellij.jpg" width="200" height="200">
 
 - IntelliJ
 
-
-<<<<<<< HEAD
-=======
-
-### ■ Team Character
-<img src="images/mingmingi.png" width="1000" height="500">
->>>>>>> 345565be66b36d213a417ca95163d5ef6aa97bea
