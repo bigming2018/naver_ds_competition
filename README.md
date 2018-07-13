@@ -1,4 +1,4 @@
-##Naver Data Science Competition 2018
+#Naver Data Science Competition 2018
 
 2018.06.04 ~ 2018.09.20
 =============================
@@ -38,8 +38,3 @@
 <img src="images/pycharm.jpeg" width="200" height="200">
 
 - PyCharm
-
-### ■ IDE
-
-- IntelliJ
-
