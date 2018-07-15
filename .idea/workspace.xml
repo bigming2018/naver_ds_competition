@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c8accfb-2242-445c-88e8-d7c2404edd38" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning_For_Python/Chapter_01/note01.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter03/ex_01.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter03/ex_02.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter03/ex_03.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter03/ex_04.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter04/ex_01.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter04/ex_02.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Machine_Learning_With_Python/Chapter01/note01.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Python_For_Everyone/Chapter02/note_02.md" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter02/note_02.md" />
-      <change beforePath="$PROJECT_DIR$/Python_For_Everyone/Chapter02/practice_01.py" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter02/ex_01.py" />
-      <change beforePath="$PROJECT_DIR$/Python_For_Everyone/Chapter03/note_01.md" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter03/note_01.md" />
-      <change beforePath="$PROJECT_DIR$/Python_For_Everyone/Chapter04/note_01.md" afterPath="$PROJECT_DIR$/Python_For_Everyone/Chapter04/note_01.md" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning_For_Python/Chapter_01/note01.md" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="note_01.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="note_01.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_For_Everyone/Chapter04/note_01.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="293">
               <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="note01.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Machine_Learning_With_Python/Chapter01/note01.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -84,6 +84,7 @@
         <option value="$PROJECT_DIR$/Python_For_Everyone/Chapter04/note_01.md" />
         <option value="$PROJECT_DIR$/Python_For_Everyone/Chapter04/ex_01.py" />
         <option value="$PROJECT_DIR$/Python_For_Everyone/Chapter04/ex_02.py" />
+        <option value="$PROJECT_DIR$/Machine_Learning_With_Python/Chapter01/note01.md" />
       </list>
     </option>
   </component>
@@ -122,19 +123,13 @@
             <path>
               <item name="naver_ds_competition" type="b2602c69:ProjectViewProjectNode" />
               <item name="naver_ds_competition" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_For_Everyone" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine_Learning_With_Python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="naver_ds_competition" type="b2602c69:ProjectViewProjectNode" />
               <item name="naver_ds_competition" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_For_Everyone" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter03" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="naver_ds_competition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="naver_ds_competition" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_For_Everyone" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="Machine_Learning_With_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,11 +302,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295838" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -389,14 +384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Machine_Learning_For_Python/Chapter_01/note01.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_For_Everyone/Chapter03/note_01.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -453,10 +440,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_For_Python/Chapter_01/note01.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_For_Everyone/Chapter04/note_01.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
+        <state relative-caret-position="293">
           <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Machine_Learning_With_Python/Chapter01/note01.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="3" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
           <folding />
         </state>
       </provider>
