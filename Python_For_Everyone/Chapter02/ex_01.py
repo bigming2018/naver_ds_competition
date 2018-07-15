@@ -1,7 +1,7 @@
 
-#inp = input('Europe floor?')
-#usf = int(inp) + 1      # input 함수는 문자열을 반환한다. 숫자가 아님
-#print('US floor', usf)  # 쉼표는 띄어쓰기 역할을 한다.
+# inp = input('Europe floor?')
+# usf = int(inp) + 1      # input 함수는 문자열을 반환한다. 숫자가 아님
+# print('US floor', usf)  # 쉼표는 띄어쓰기 역할을 한다.
 
 # nzt = input('Enter your name: ')
 # print("Hello", nzt)

@@ -1,4 +1,4 @@
-#Naver Data Science Competition 2018
+# Naver Data Science Competition 2018
 
 2018.06.04 ~ 2018.09.20
 =============================
