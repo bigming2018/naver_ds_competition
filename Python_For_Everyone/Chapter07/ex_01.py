@@ -1,0 +1,1 @@
+#fhand = open('C:\\Users\\Administrator\\Desktop\\hello.txt', 'r')
