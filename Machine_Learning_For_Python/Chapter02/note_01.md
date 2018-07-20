@@ -2,7 +2,7 @@
 
 ===========================================
 
-## Pythonic Code Overview
+### Pythonic Code Overview
 
 - 파이썬 스타일 코드(Pythonic Code)
 - Pythonic Code 는 간단하게, 다른 사람의 코드를 잘 이해하기 위해서
