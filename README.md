@@ -14,11 +14,6 @@
 
 
 
-### ■ Team Slogan
- - for Better Code than yesterday!
-
-
-
 ### ■ Language
 <img src="images/python.png" width="300" height="auto">
 
